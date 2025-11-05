@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run StudentManagementSystem",
+            "request": "launch",
+            "mainClass": "StudentManagementSystem",
+            "vmArgs": "-cp .;mysql-connector-j-9.5.0.jar"
+        }
+    ]
+}
